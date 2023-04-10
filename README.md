@@ -1,3 +1,9 @@
 # 572project5
 Resources for Project 5 for ESE 572 \
-![image](https://user-images.githubusercontent.com/55923131/230970135-7efb8652-acb7-4587-9f10-c28d3cf68055.png)
+
+1. Determine a Minimum Spanning Tree (MST) for broadcasting. Specify the algorithm
+you are using and show each iteration as part of determining the final MST pattern. \
+\
+2. Determine the shortest path between the following pairs of nodes: (A, J), (B,I), (A,G),
+(E,F), (B,J), and (D,G). Specify which algorithm you are using and show each
+iteration as part of determining the final routing patterns \
