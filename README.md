@@ -26,3 +26,6 @@ https://stackoverflow.com/questions/28372127/add-edge-weights-to-plot-output-in-
 
 1. Kruskal's Algorithm for Minimum Spanning Tree (MST): \
 https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+
+2. Dijkstra's Algorithm for Shortest Path: \
+https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
