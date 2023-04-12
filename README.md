@@ -11,3 +11,10 @@ pages 20-23 Lecture 9
 iteration as part of determining the final routing patterns 
 
 pages 24-37 Lecture 9
+
+3. Plotting visual networks in Python:
+https://www.geeksforgeeks.org/python-visualize-graphs-generated-in-networkx-using-matplotlib/?ref=rp \
+https://networkx.org/documentation/stable/tutorial.html \
+https://networkx.org/documentation/stable/reference/drawing.html \
+https://stackoverflow.com/questions/74189581/axesstack-object-is-not-callable-while-using-networkx-to-plot \
+https://networkx.org/documentation/stable/install.html
